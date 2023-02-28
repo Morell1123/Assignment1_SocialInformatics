@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-,names,authorId,message,aliases,citationCount,papers
+index,names,authorId,message,aliases,citationCount,papers
 0,Adriana Iamnitchi,1986996,,,,
 1,Alejandro Noriega Campero,31738766,,"['Alejandro Campero', 'Alejandro Noriega Campero']",17.0,Computer Science
 2,Alessandro Cossard,2078464034,,,80.0,Computer Science
