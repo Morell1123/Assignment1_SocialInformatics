@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ,names,authorId,message,aliases,citationCount,papers
 0,Adriana Iamnitchi,1986996,,,,
 1,Alejandro Noriega Campero,31738766,,"['Alejandro Campero', 'Alejandro Noriega Campero']",17.0,Computer Science
@@ -199,3 +200,206 @@
 197,Zhongkai Sun,,,,,
 198,Zohar Neu,,,,,
 199,y,,,,,
+=======
+,names,authorId,message,aliases,citationCount,papers
+0,Adriana Iamnitchi,1986996,,,,
+1,Alejandro Noriega Campero,31738766,,"['Alejandro Campero', 'Alejandro Noriega Campero']",17.0,Computer Science
+2,Alessandro Cossard,2078464034,,,80.0,Computer Science
+3,Alex Pentland,2069315974,,"['A. Pentland', 'Alex Pentland']",122.0,Computer Science
+4,Alexander Robertson,2070173005,,"['A Robertson', 'Alexander F. Robertson', 'Alexander Robertson']",17.0,Sociology
+5,Alexandra Olteanu,30695829,,"['I. Olteanu', 'Ioana Olteanu', 'Ioana Alexandra Olteanu']",61.0,Medicine
+6,Alexandra Schofield,2064372444,,"['A. Schofield', 'Alexandra Schofield']",0.0,Geography
+7,Ali Faqeeh,3028190,,,181.0,Computer Science
+8,Alina Sirbu,39496312,,"['Alin Sirbu', 'Alina Sirbu', 'Alina Ŝırbu', 'Alina Sîrbu', 'A N Sirbu']",833.0,Computer Science
+9,Amit Sharma,2109647303,,"['Amit K. Sharma', 'Amit Sharma', 'Amitesh Sharma', 'Amit Kumar Sharma']",49.0,Computer Science
+10,Andrea Bonanomi,48866094,,"['A. Bonanomi', 'Andrea Bonanomi']",1033.0,Psychology
+11,Andreas Diekmann,2078552030,,"['A. Diekmann', 'Andreas Diekmann', 'Andreas Dr. Diekmann']",28.0,Materials Science
+12,Andreia Sofia Teixeira,144747175,,"['Andreia Teixeira', 'Andreia Sofia Teixeira']",71.0,Mathematics
+13,Andrew Rosenberg,46453660,,"['Andrew. Rosenberg', 'A A Rosenberg', 'Andrew A. Rosenberg', 'A. A. Rosenberg', 'Andrew A Rosenberg', 'Andrew Rosenberg']",11855.0,Biology
+14,Aniket Alam,33913983,,,28.0,Geography
+15,Anne Cornelia Kroon,21467751,,"['A. C. Kroon', 'Anne C. Kroon', 'Anne C Kroon', 'Anne Cornelia Kroon']",227.0,Psychology
+16,Anton Boichenko,1740991842,,"['Anton Boichenko', 'Anton N Boichenko']",22.0,Medicine
+17,Antonio Arechar,9549601,,"['Antonio A. Arechar', 'Antonio Arechar', 'Antonio A Arechar', 'Antonio Alonso Arechar']",941.0,Medicine
+18,Antonio Lima,2072824108,,"['Antonio Lima', 'Antonio Medina Lima']",5.0,Medicine
+19,Antonio Molins,133632719,,"['Alfonso Molins', 'Antonio Molins', 'Antonio María Segarra Molins']",0.0,Computer Science
+20,Anxo Sanchez,2109843146,,['Anxo Sanchez'],1.0,Economics
+21,Arseny Rasov,,,,,
+22,Aurelie Nardy,,,,,
+23,Ayush K. Rai,2053981547,,"['Ayush K Rai', 'Ayush K. Rai', 'Ayush Kumar Rai']",117.0,Computer Science
+24,Ben Thies,153451463,,,26.0,Computer Science
+25,Benjamin Meindl,2080374433,,,78.0,Computer Science
+26,Bernard Koch,5428313,,"['Bernard J Koch', 'Bernard J. Koch']",702.0,Medicine
+27,Bernard Rimé,2062873873,,"['B. Rimé', 'Bernard Rimé']",206.0,Psychology
+28,Bernardo Garcia Bulle,2123091329,,,3.0,Physics
+29,Bjarke Mørch Mønsted,103151696,,"['B. Mønsted', 'Bjarke Mørch Mønsted', 'B. Monsted', 'Bjarke Mønsted', 'Bjarke Monsted']",440.0,Medicine
+30,Bryan Bruns,32885276,,"['B. Bruns', 'Bryan Bruns', 'Bryan Randolph Bruns']",689.0,Political Science
+31,Camille Roth,123873301,,"['C Roth', 'Camille Roth']",63.0,Political Science
+32,Carlos Rodriguez Sickert,1403087742,,"['C. Rodriguez-sickert', 'Carlos Rodríguez-sickert', 'Carlos Rodriguez-sickert']",1107.0,Medicine
+33,Caspar Chorus,2699405,,"['Caspar G. Chorus', 'Caspar G Chorus', 'Caspar Chorus', 'C G Chorus', 'C. Chorus', 'C. G. Chorus', 'Caspar Gerard Chorus']",4953.0,Economics
+34,Cesar Hidalgo,50609891,,"['Cesar Hidalgo', 'César Augusto Hidalgo', 'César Hidalgo', 'Cesar Augusto Hidalgo']",16.0,Physics
+35,Chaoming Song,2116052969,,"['C Song', 'C. Song', 'Chaoming Song']",125.0,Computer Science
+36,Chengcheng Li,5115125,,"['Liu Chengcheng', 'Li Chengcheng']",74.0,Computer Science
+37,Chris Janssen,49164724,,"['Chris Janssen', 'Christopher F Janssen']",966.0,Medicine
+38,Chung-Hong Chan,,,,,
+39,Clara Christner,1582151395,,"['C. Christner', 'Clara Christner']",17.0,Computer Science
+40,Cor Veenman,1696916,,"['C. J. Veenman', 'C.j. Veenman', 'Cor J. Veenman', 'C. Veenman', 'Cor Veenman']",3583.0,Computer Science
+41,Dafne van Kuppevelt,66796008,,['Dafne E. Van Kuppevelt'],25.0,Medicine
+42,Damian Trilling,10721627,,"['D. C. Trilling', 'D. Trilling', 'Damian Trilling']",1890.0,Computer Science
+43,Dana Fisher,2478983,,"['Dan Fisher', 'Dana Fisher', 'D. Fisher', 'D. R. Fisher', 'Dana R. Fisher', 'Dana R Fisher']",3163.0,Political Science
+44,Daniel C. Fehder,7382384,,"['Dan Fehder', 'Daniel Fehder']",351.0,Business
+45,Daniel Ciganda,2081679385,,,4.0,NaN
+46,Daniela Gawehns,1860720135,,,22.0,Computer Science
+47,Daniele Guariso,122195930,,,1.0,Medicine
+48,Daniele Silvestro,3007123,,"['D Silvestro', 'D. Di Silvestro', 'D. Silvestro', 'Daniel Silvestro', 'Daniele Silvestro']",7461.0,Biology
+49,David Gefen,1736324,,"['D. Gefen', 'David Gefen']",47936.0,Computer Science
+50,David Martens,144166108,,"['David William Martens', 'David W. Martens', 'D. W. Martens', 'Dave Martens', 'David Martens', 'D W. Martens']",30.0,Medicine
+51,Dieter Wang,2048615647,,,68.0,Economics
+52,Diliara Valeeva,2853607,,"['D. A. Valeeva', 'D. Valeeva', 'Diliara Valeeva']",110.0,Psychology
+53,Dimosthenis Stefanidis,1903191268,,,2.0,Medicine
+54,Dmitry Zinoviev,2082578902,,"['D Zinoviev', 'Dmitry Y Zinoviev', 'Dmitry Zinoviev']",17.0,Medicine
+55,Douglas Mcleod,2686922,,"['D.m. Mcleod', 'Douglas M Mcleod', 'Douglas M. Mcleod', 'Douglas Mcleod']",5945.0,Psychology
+56,Duncan Watts ,2059772133,,"['Duncan J. Watts', 'D. Watts', 'D. J. Watts', 'Duncan Watts', 'Duncan J Watts']",1023.0,Physics
+57,Elissa M,102544229,,"['M Elissa', 'M. G. Elissa', 'Matthew Elissa']",7.0,Medicine
+58,Ellie Yang,119070468,,['Ellie Fan Yang'],8.0,Medicine
+59,Emilio Ferrara,123750282,,"['F Emilio', 'Ferrara Emilio']",6.0,Computer Science
+60,Emily Sullivan,47992007,,"['E. Sullivan', 'Emily Rose Sullivan', 'Emily Sullivan']",105.0,Medicine
+61,Erdem Yörük,133934946,,['Erdem Yörük'],3.0,Philosophy
+62,Ethan Bernstein,2068522604,,"['Ethan Bernstein', 'Ethan M. Bernstein']",111.0,Medicine
+63,Farhana Ferdousi Liza,3445542,,"['F.f. Liza', 'Farhana Ferdousi Liza']",205.0,Computer Science
+64,Fauna Mahootian,2091697787,,,7.0,Computer Science
+65,Felicia Loecherbach,66124729,,"['F. Löcherbach', 'Felicia Loecherbach', 'Felicia Löcherbach']",12.0,Computer Science
+66,Felix Victor Münch,101726506,,"['Felix Münch', 'Felix Victor Münch']",143.0,Computer Science
+67,Fiona Murray,46455367,,"['F Murray', 'Fiona Murray']",20.0,Political Science
+68,Flavio Pinheiro ,144130084,,"['Flavio L. Pinheiro', 'Flavio Leao Pinheiro', 'Flavio Pinheiro', 'Flávio Pinheiro']",48.0,Political Science
+69,Fragkiskos Malliaros,2817467,,"['Fragkiskos D Malliaros', 'Fragkiskos Malliaros']",1432.0,Computer Science
+70,Frank Schweitzer,1733303,,,,
+71,Frank van der Wouden,2117664415,,,,
+72,Frederico Francisco,90039686,,,,
+73,Fumiaki Taka,2144650010,,,,
+74,Gabor Bekes,1855575,,,,
+75,Gabor Vattay,1741175,,,,
+76,George Walkden,52269660,,,,
+77,Gijs Schumacher,34444206,,,,
+78,Giorgia Ramponi,144763838,,,,
+79,Guida Veiga,47549224,,,,
+80,Haruhiko Maenami,98234305,,,,
+81,Hernan Makse,146086915,,"['A Makse Hernan', 'Astudillo Hernan']",0.0,Chemistry
+82,Hiroki Sakaji,83689730,,,,
+83,Hélène Bouchet,3755051,,,,
+84,Ifat Emi,2746533,,"['Ifat A. Emi', 'Ifat Emi', 'Ifat Afrin Emi']",118.0,Computer Science
+85,Iraklis Moutidis,71022991,,,27.0,Computer Science
+86,Irina Vartanova,2085976718,,"['I Vartanova', 'Irina I. Vartanova', 'Irina Vartanova']",136.0,Medicine
+87,Isabelle Tingzon,1580935862,,"['I. Tingzon', 'Isabelle Tingzon']",67.0,Computer Science
+88,Ivan Garibay ,1769316,,['Ivan Garibay'],137.0,Computer Science
+89,James Evans,119694053,,,,
+90,James Gleeson,2067402663,,"['J Gleeson', 'James Joseph Gleeson', 'James Gleeson']",140.0,Medicine
+91,Jan Overgoor,2943419,,,,
+92,Jan van der Laan,89482883,,['Jan Van Der Laan'],0.0,Chemistry
+93,Jennifer Wortman Vaughan,147171110,,,,
+94,Jeroen Bruggeman,145372039,,,,
+95,Jesse Hoey,50687524,,,,
+96,Jianliang Yang,79695806,,,,
+97,Joana Mendonça,2054206550,,,,
+98,Johan Ugander,144584024,,,,
+99,Johannes Wachs,39748526,,,,
+100,John Skvoretz,3233874,,,,
+101,Jonathan Bright,145935703,,,,
+102,Joyojeet Pal ,2064859943,,,,
+103,Junichi Ozaki,65854572,,,,
+104,Jussara Almeida,47288524,,,,
+105,Jérémie Rappaz,2075527036,,,,
+106,Khyati Mahajan,2106176640,,,,
+107,Kimmo Kaski,145670814,,,,
+108,Kostas Stathoulopoulos,2066469124,,,,
+109,Krishna Gummadi,1958921,,,,
+110,Laura Bringmann,1935592,,,,
+111,Liat Ayalon,47432224,,,,
+112,Lijun Sun,2110717605,,,,
+113,Lilia Perfeito,5507954,,,,
+114,Lingqing Jiang,48280546,,,,
+115,Lise Getoor,1746034,,,,
+116,Lovro Šubelj,1698672,,,,
+117,Luis Cueto-Felgueroso,,,,,
+118,Maayan Levinson,118700719,,,,
+119,Mahmoudreza Babaei,1818176,,,,
+120,Maksim Tsvetovat,1770229,,,,
+121,Manuel Cebrian,145512648,,,,
+122,Manuel Garcia-Herranz,,,,,
+123,Mark Alfano,39073532,,,,
+124,Markus Meierer,7147206,,,,
+125,Marta González,47342599,,,,
+126,Marta Rivera-Alba,,,,,
+127,Martin Hilbert,144212002,,,,
+128,Martin Lukac,2053062565,,,,
+129,María Pereda,144582112,,,,
+130,Mattia Gasparini,122392325,,,,
+131,Mi Jin Lee,1414111489,,,,
+132,Milan Janosov,51301358,,,,
+133,Ming Yin,14840260,,,,
+134,Moritz Müller,37455034,,,,
+135,Muyang Li,134319547,,,,
+136,Nadia Metoui,,,,,
+137,Nicolas Cointe,,,,,
+138,Nikolas Zöller,,,,,
+139,Nuno Araujo,,,,,
+140,Olga Silyutina,,,,,
+141,Oren Lederman,,,,,
+142,Peter Barbrook-Johnson,,,,,
+143,Philip Howard,,,,,
+144,Philip Leifeld,,,,,
+145,Philipe Melo,,,,,
+146,Quinten Meertens,,,,,
+147,Rahul Arulkumaran,,,,,
+148,Ricardo Buera Corchón,,,,,
+149,Ridwan Alam,,,,,
+150,Rishabh Kaushal,,,,,
+151,Ronald Robertson,,,,,
+152,Rudy Arthur,,,,,
+153,Sait Bayrakdar,48640303,,,,
+154,Sander Scholtus,2068430565,,,,
+155,Sanja Hajdinjak,107795856,,,,
+156,Sara Tonelli,2155970749,,,,
+157,Scott Hale,115386309,,,,
+158,Sergey Gavrilets,2258432,,,,
+159,Sharon Goldwater,1991315,,,,
+160,Shen Yan,2023487431,,,,
+161,Shingo Takahashi,2110723862,,,,
+162,Silke Adam,,,,,
+163,Simone Centellegher,,,,,
+164,Stan Oklobdzija,,,,,
+165,Stefan Wojcik,,,,,
+166,Stephane Verguet,,,,,
+167,Stephen M,,,,,
+168,Sune Lehmann Jørgensen,,,,,
+169,Swapnil Gavade,,,,,
+170,Tobias Buchmann,,,,,
+171,Tomasz P,,,,,
+172,Tomo Ogawa,,,,,
+173,Tomosato Nishi,,,,,
+174,Ulrich Matter,,,,,
+175,Vadake Narayanan,,,,,
+176,Valerie Hase,,,,,
+177,Victor Suarez-Lledo,,,,,
+178,Vincent Antonio Traag,2653499,,,,
+179,Vincenz Frey,2100981919,,,,
+180,William Cai,2113721197,,,,
+181,Xiancheng Li,3663418,,,,
+182,Xiaowen Dong,9342947,,,,
+183,Yan Leng,143611031,,,,
+184,Yasuhiro Kitakami,31304979,,,,
+185,Yasuko Kawahata,52521174,,,,
+186,Yelena Mejova,3329961,,,,
+187,Yian Yin,2173159409,,,,
+188,Yifang Ma,47009759,,,,
+189,Yimeng Yang,2108777102,,,,
+190,Yong-Yeol Ahn,,,,,
+191,Yoosoon An,104772683,,,,
+192,Yuki Ogawa,46806544,,,,
+193,Yuval Benjamini,,,,,
+194,Zachary Neal,,,,,
+195,Zeph M. C. van Berlo,,,,,
+196,Zhen Zhu,,,,,
+197,Zhongkai Sun,,,,,
+198,Zohar Neu,,,,,
+199,y,,,,,
+>>>>>>> 908a954515033249e56bb5785fb7de76f6b1a1b5
